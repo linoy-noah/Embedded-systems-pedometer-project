@@ -33,4 +33,5 @@ Cycle base for digital display- 12 hours or 24 hours.
 Set time.
 Set date.
 Pedometer- set length of step.
+
 User guide attached above
